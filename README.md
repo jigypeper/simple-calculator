@@ -9,3 +9,4 @@ e.g.
 `10 10 +`
 
 If you are calculating from an external file, ensure that the data is formatted in the same manner.
+The CLI should notify you of any errors in the input files.
